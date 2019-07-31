@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h3>这是register 注册子组件</h3>
+        <h3>search</h3>
     </div>
 </template>
 <script>
@@ -8,6 +8,6 @@ export default {
     
 }
 </script>
-<style>
-
+<style lang="scss" scoped>
+    
 </style>

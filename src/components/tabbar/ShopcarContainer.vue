@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>这是GoodList组件</h1>
+        <h3>shopcar</h3>
     </div>
 </template>
 <script>
@@ -8,6 +8,6 @@ export default {
     
 }
 </script>
-<style>
-
+<style lang="scss" scoped>
+    
 </style>
